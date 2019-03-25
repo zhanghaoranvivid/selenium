@@ -147,7 +147,7 @@ public class selenium2 {
 		selenium2 action = new selenium2();
 		action.InitDriver();
 		action.mose_action();
-		//action.button();
+		action.button();
 		//action.checkBox();
 		//action.InputBox();
 		//action.downSelectBox();
