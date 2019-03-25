@@ -27,13 +27,13 @@ public class selenium2 {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		String user_info = user.getAttribute("placeholder");
-		System.out.println(user_info);
-		String user_value = user.getAttribute("value");
-		System.out.println(user_value);
-		boolean enable = user.isEnabled();
-		System.out.println(enable);
+		//todo: Find element in the second page
+//		String user_info = user.getAttribute("placeholder");
+//		System.out.println(user_info);
+//		String user_value = user.getAttribute("value");
+//		System.out.println(user_value);
+//		boolean enable = user.isEnabled();
+//		System.out.println(enable);
 	}
 	public void RedioBox() {
 		
