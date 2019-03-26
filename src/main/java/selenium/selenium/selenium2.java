@@ -146,10 +146,10 @@ public class selenium2 {
 		// TODO Auto-generated method stub
 		selenium2 action = new selenium2();
 		action.InitDriver();
-		action.mose_action();
+		//action.mose_action();
 		//action.button();
 		//action.checkBox();
-		//action.InputBox();
+		action.InputBox();
 		//action.downSelectBox();
 		//action.upheader();
 		//action.web_form();
